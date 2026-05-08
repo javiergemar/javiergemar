@@ -1,4 +1,4 @@
-# Hola, soy Javier,
+# Hola, soy Javier
 
 Apasionado por la optimización de sistemas y la automatización de flujos de trabajo. Mi enfoque principal es transformar procesos manuales repetitivos en soluciones eficientes mediante código.
 
