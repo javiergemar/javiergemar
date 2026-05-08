@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre]
+# Hola, soy Javier,
 
 Apasionado por la optimización de sistemas y la automatización de flujos de trabajo. Mi enfoque principal es transformar procesos manuales repetitivos en soluciones eficientes mediante código.
 
@@ -17,8 +17,4 @@ Apasionado por la optimización de sistemas y la automatización de flujos de tr
 
 ---
 
-### Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=javiergemar&show_icons=true&hide_border=true&theme=dark)
-
----
 *En constante aprendizaje y mejora continua.*
