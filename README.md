@@ -10,10 +10,10 @@ Apasionado por la optimización de sistemas y la automatización de flujos de tr
 ---
 
 ### Proyectos Destacados
-*Aquí irán tus scripts de automatización:*
+👷🏻‍♂️ En construcción:
 
-- **[Nombre del Proyecto]**: Breve descripción del problema que automatiza.
-- **[Nombre del Proyecto]**: Herramienta creada para optimizar tareas.
+- 🚀 **[Nombre del Proyecto]**: Breve descripción del problema que automatiza.
+- 🚀 **[Nombre del Proyecto]**: Herramienta creada para optimizar tareas.
 
 ---
 
