@@ -18,7 +18,7 @@ Apasionado por la optimización de sistemas y la automatización de flujos de tr
 ---
 
 ### Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=transparent)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=javiergemar&show_icons=true&theme=transparent)
 
 ---
 *En constante aprendizaje y mejora continua.*
